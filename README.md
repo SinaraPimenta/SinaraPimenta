@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there! 👋
+### I'm Sinara!
 
-<!--
-**SinaraPimenta/SinaraPimenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+:computer: I'm Systems Develompment Analyst, and I really like working with data.
 
-Here are some ideas to get you started:
+:heart: Lover of Technology, Coding and Chalanges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/seu-usuário-aqui/SinaraPimenta/blob/output/github-contribution-grid-snake.svg)
+
+### Languages and Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+### I'm learning:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
+
+
+### Contacts:
+<div>
+<a href="https://www.linkedin.com/in/sinara-pimenta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
