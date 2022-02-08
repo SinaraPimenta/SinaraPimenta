@@ -6,7 +6,7 @@
 
 :heart: Lover of Technology, Coding and Chalanges.
 
-![Snake animation](https://github.com/seu-usuário-aqui/SinaraPimenta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SinaraPimenta/SinaraPimenta/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -15,7 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
 
 
-### Contacts:
+### Contact:
 <div>
 <a href="https://www.linkedin.com/in/sinara-pimenta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
