@@ -4,7 +4,7 @@
 <br>
 :computer: I'm Systems Develompment Analyst, and I really like working with data.
 
-:heart: Lover of Technology, Coding and Challanges.
+:heart: Lover of Technology, Coding and Challenges.
 
 ![Snake animation](https://github.com/SinaraPimenta/SinaraPimenta/blob/output/github-contribution-grid-snake.svg)
 
