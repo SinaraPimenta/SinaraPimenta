@@ -2,7 +2,7 @@
 ### I'm Sinara!
 
 <br>
-:computer: I'm Systems Develompment Analyst, and I really like working with data.
+:computer: I'm Data Engineer, and I really like working with data.
 
 :heart: Lover of Technology, Coding and Challenges.
 
